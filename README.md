@@ -1,6 +1,6 @@
 ### Hola!👋
 
-  Soy Leandro, un estudiante de tiempo completo dedicado a formarse día a día en este  camino hermoso como lo es la programación. Recientemente me gradué del bootcamp Soy Henry, donde realicé los proyectos que pueden encontrar en mi perfil.
+  Soy Leandro, recientemente me gradué del bootcamp Soy Henry, donde realicé los proyectos que pueden encontrar en mi perfil.
 
   Mi primer proyecto fue el denominado Food que realicé de forma individual y el segundo, "proyecto final" fue concebido en equipo, utilizando metodologías ágiles y el flujo de github. Pueden encontrar más información sobre los mismos yendo al readme de cada repo!
   
